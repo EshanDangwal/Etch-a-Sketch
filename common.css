@@ -1,0 +1,11 @@
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    /* width: 817px; */
+    /* margin: 0 auto; */
+}
+#container > div{
+    border: 0.1px solid rgb(232, 225, 225);
+    height: 2px;
+    width: 2px;
+}
